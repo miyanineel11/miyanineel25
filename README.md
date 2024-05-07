@@ -4,7 +4,6 @@
 
 <H1> Kids Starter </H1>
 <ul>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
+  <li>This app is very funny for kids.</li>
+  <li>Kids can get lots of entertainment using this app.</li>
 </ul>
