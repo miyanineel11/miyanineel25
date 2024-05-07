@@ -3,6 +3,8 @@
 ## Projects
 
 Kids Starter
+- This app is very funny for kids.
+- Kids can get lots of entertainment using this app
 
 <!--
 **miyanineel25/miyanineel25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
