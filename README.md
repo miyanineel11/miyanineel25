@@ -2,7 +2,7 @@
 
 ## Projects
 
-<H1> Kids Starter </H1>
+<H2> Kids Starter </H2>
 <H4>
 <ul>
   <li>This app is very funny for kids.</li>
